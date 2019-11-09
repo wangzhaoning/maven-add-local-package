@@ -14,4 +14,6 @@ mvn install:install-file -Dfile=jarname-1.0.jar -DgroupId=jarname -DartifactId=j
 - 打印`dependency`添加到`pom`即可
 
 ### 注意
-[![在代码的这部分]:(https://github.com/wangzhaoning/maven-add-local-package/blob/master/src/main/java/main/java/GenerateDependency.java#L79-L88)]需要按照你jar包的名称修改一下
+[在代码的这部分]:[url] 需要按照你jar包的名称修改逻辑
+
+[url]: https://github.com/wangzhaoning/maven-add-local-package/blob/master/src/main/java/main/java/GenerateDependency.java#L79-L88
